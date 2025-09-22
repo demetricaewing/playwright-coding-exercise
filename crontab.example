@@ -1,0 +1,1 @@
+*/15 * * * * cd /Users/demetricewing/playwright-dee && /Users/demetricewing/.nvm/versions/node/v22.16.0/bin/npx playwright test tests/vote-loop.spec.ts --headed > /Users/demetricewing/playwright-dee/cron-log.txt 2>&1
